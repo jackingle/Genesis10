@@ -1,0 +1,19 @@
+body {
+      background-color: #fcfcfc;
+      font-family: "Comic Sans MS", arial, helvetica, sans-serif;
+      color: #0d1f2d;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+.bet {
+      font-family: "Comic Sans MS", arial, helvetica, sans-serif;
+      color: black;
+      font-size: 20px;
+}
+h1 {
+      font-size: 3em;
+}
+table {
+      font-size: 14px;
+}
